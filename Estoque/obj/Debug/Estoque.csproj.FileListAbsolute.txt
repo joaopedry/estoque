@@ -1,0 +1,10 @@
+D:\Estoque\Estoque\bin\Debug\Estoque.exe.config
+D:\Estoque\Estoque\bin\Debug\Estoque.exe
+D:\Estoque\Estoque\bin\Debug\Estoque.pdb
+D:\Estoque\Estoque\obj\Debug\Estoque.csprojAssemblyReference.cache
+D:\Estoque\Estoque\obj\Debug\Estoque.Form1.resources
+D:\Estoque\Estoque\obj\Debug\Estoque.Properties.Resources.resources
+D:\Estoque\Estoque\obj\Debug\Estoque.csproj.GenerateResource.cache
+D:\Estoque\Estoque\obj\Debug\Estoque.csproj.CoreCompileInputs.cache
+D:\Estoque\Estoque\obj\Debug\Estoque.exe
+D:\Estoque\Estoque\obj\Debug\Estoque.pdb
